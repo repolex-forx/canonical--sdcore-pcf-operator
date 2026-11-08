@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "sdcore-pcf-operator",
+  "versions": [
+    {
+      "commit": "fc84499edee777d4e9581f229600ba3f59bbcfc1",
+      "tag": "",
+      "parsed_at": "2026-11-08T14:50:25.220220+00:00"
+    }
+  ]
+}
