@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/sdcore-pcf-operator/commit/fc84499edee777d4e9581f229600ba3f59bbcfc1",
       "git:hexsha": "fc84499edee777d4e9581f229600ba3f59bbcfc1",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/canonical/sdcore-pcf-operator/commit/bda333068839a669629cd9e2ce26db59727ed3fa",
